@@ -1,5 +1,5 @@
 <p align="center"><img src="https://i.imgur.com/RPZ9Gws.png" height="50%" width="50%" alt="image"/>
-<h1>osTicket Post-InstallationConfiguration</h1>
+<h1>osTicket Post-Installation Configuration</h1>
 <p> This tutorial outlines the post-installation configuration of the open-source help desk ticketing system <b>"osTicket"</b>.</p>
 
 <h3>*Environments and Technologies Used</h3>
